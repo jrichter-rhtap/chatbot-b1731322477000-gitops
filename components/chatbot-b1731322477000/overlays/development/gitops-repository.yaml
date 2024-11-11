@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: chatbot-b1731322477000-gitops-repository
+spec:
+  url: https://github.com/jrichter-rhtap/chatbot-b1731322477000-gitops
